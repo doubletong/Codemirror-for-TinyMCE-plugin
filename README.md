@@ -17,4 +17,4 @@ tinymce.init({
 ```
 url修改成自己的项目的真实路径
 效果如下：
-![界面截图](https://github.com/doubletong/Codemirror-for-TinyMCE-plugin/raw/master/images/ui.png)
+![界面截图](https://raw.githubusercontent.com/doubletong/Codemirror-for-TinyMCE-plugin/master/images/ui.png)
