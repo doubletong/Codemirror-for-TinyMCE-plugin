@@ -1,5 +1,7 @@
-# Codemirror-for-TinyMCE5-plugin
-Codemirror for TinyMCE5 plugin
+# Codemirror for TinyMCE5 plugin
+
+集成Codemirror作为源码编辑器使用
+
 ```
 tinymce.init({
      selector: '#Body',      
